@@ -5,7 +5,8 @@ import 'package:flutter/material.dart';
 void main(){
   runApp(
     MaterialApp(
-      home: MiCard(),
+      //home: MiCard(),
+      home: Text("hi"),
     ),
   );
 
